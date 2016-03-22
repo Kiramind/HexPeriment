@@ -1,0 +1,13 @@
+name: 'HexPeriment'
+version: 0.0.1
+description: >
+  Experiment with hexes
+#author: <your name> <email@example.com>
+#homepage: https://www.example.com
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  browser: any
+  logging: ">=0.9.3 <0.10.0"
+  Hex :
+    path : C:\Users\Kiramind\dart\Hex\
